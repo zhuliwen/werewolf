@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Open source datasets for paper [Enhance Reasoning for Large Language Models in the Game Werewolf](https://arxiv.org/pdf/2402.02330.pdf)
+Open source datasets for paper **Enhance Reasoning for Large Language Models in the Game Werewolf**.
 
 ## Datasets
 Links:
@@ -30,4 +30,4 @@ python3 check_data_en.py
 ## Output
 Werewolf game simulation video
 
-![demo](demo/demo_gif.gif)
+![demo](demo/demo_image.png)
